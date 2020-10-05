@@ -1,5 +1,6 @@
 # Tetris_POO
 Este es un proyecto de repaso de programación estructurada para Programación Orientada a Objetos, donde se construye el juego Tetris en Processing, con Java.
+/r
 #¿Cómo jugar?
 El juego consiste en eliminar filas de bloques para ganar puntos y evitar que los bloques se apilen en las columnas. Estas filas se eliminan cuando no quedan espacios vacíos en ella, por lo que hay que posicionar los tetrominos de tal forma que se llene la mayor cantidad de espacio lateral. Al eliminar una fila, el jugador obtiene 100 puntos. Sube de nivel cuando la cantidad de puntos es igual al cuadrado del nivel, veces mil (nivel^2 * 1000). A medida que aumente el nivel, más rápido caerán las fichas y, así mismo, más puntos podrán obtenerse.
 #Controles:
